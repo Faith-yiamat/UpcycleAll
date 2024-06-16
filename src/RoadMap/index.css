@@ -1,0 +1,10 @@
+.Aim{
+    display: flex;
+    gap: 15%;
+    background-color: rgb(37, 108, 35); 
+
+}
+
+body{
+    background-color:rgb(37, 108, 35) ;
+}
