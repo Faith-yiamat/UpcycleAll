@@ -1,6 +1,7 @@
 import './App.css';
 import Roadmap from './RoadMap';
 import About from './AboutUs';
+import Team from './Team';
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
 
       <About/>
       <Roadmap/>
+      <Team/>
     </div>
   );
 }

@@ -4,7 +4,8 @@
     gap: 5px;
 }
 img{
-    width: 300px;
+    width: 400px;
+    height: 350px;
 }
 .approach{
     display: flex;
@@ -20,7 +21,7 @@ img{
 
 }
 p{
-    font-size: x-large;
+    font-size: large;
     color: white;
 }
 body{

@@ -1,0 +1,269 @@
+img{
+    height: 20vh;
+    width: 10vw;
+    border-radius: 50%;
+
+}
+.team{
+    background-color: rgb(16, 33, 41);
+
+}
+figcaption{
+    color: rgb(228, 231, 214);
+}
+#pictures{
+    display: flex;
+    gap: 10%;
+    justify-content: space-around;
+
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+b{
+    color: rgb(34, 179, 159);
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    margin: 1%;
+    margin-top: 5%;
+}
+#fanny{
+    margin-top: 8%;
+}
+#yiamat{
+    margin-top: 8%;
+    
+}
+#yvonne{
+    margin-top: 8%;
+}
+@media screen and (min-width:481px) and (max-width:564px){
+    img{
+        height: 20vh;
+        width: 30vw;
+    
+    }
+    .team{
+        background-color: rgb(16, 33, 41);
+        width: 100%;
+
+    
+    }
+    figcaption{
+        color: rgb(228, 231, 214);
+        font-size: 15px;
+    }
+    #pictures{
+        display: grid;
+        gap: 5%;
+        justify-content: space-around;
+    
+    }
+    h1{
+        text-align: center;
+        color: aliceblue;
+        font-size: 24px;
+    }
+    b{
+        color: rgb(34, 179, 159);
+    }
+    p{
+        color: aliceblue;
+        text-align: center;
+        margin: 1%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+        font-size: 20px;
+
+    }       
+
+    #fanny{
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    #Rehema{
+        margin-top: 10%;
+    }
+    #yiamat{
+        margin-top: 10%;
+        margin-bottom: 100%;
+        
+    }
+    #yvonne{
+        margin-top: 10%;
+        
+    }
+}
+@media screen and (max-width:480px) {
+    img{
+        height: 20vh;
+        width: 40vw;
+    
+    }
+    .team{
+        background-color: rgb(16, 33, 41);
+        width: 100%;
+
+    
+    }
+    figcaption{
+        color: rgb(228, 231, 214);
+        font-size: 15px;
+    }
+    #pictures{
+        display: grid;
+        gap: 5%;
+        justify-content: space-around;
+    
+    }
+    h1{
+        text-align: center;
+        color: aliceblue;
+        font-size: 20px;
+    }
+    b{
+        color: rgb(34, 179, 159);
+    }
+    p{
+        color: aliceblue;
+        text-align: center;
+        margin: 1%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+        font-size: 15px;
+
+    }       
+
+    #fanny{
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    #Rehema{
+        margin-top: 10%;
+    }
+    #yiamat{
+        margin-top: 10%;
+        margin-bottom: 100%;
+        
+    }
+    #yvonne{
+        margin-top: 10%;
+        
+    }
+}
+@media screen and (min-width:565px) and (max-width:768px){
+    img{
+        height: 20vh;
+        width: 30vw;
+    
+    }
+    .team{
+        background-color: rgb(16, 33, 41);
+        width: 100%;
+
+    
+    }
+    figcaption{
+        color: rgb(228, 231, 214);
+        font-size: 15px;
+    }
+    #pictures{
+        flex-wrap: wrap;
+        gap: 10%;
+        justify-content: space-around;
+    
+    }
+    h1{
+        text-align: center;
+        color: aliceblue;
+        font-size: 24px;
+    }
+    b{
+        color: rgb(34, 179, 159);
+    }
+    p{
+        color: aliceblue;
+        text-align: center;
+        margin: 1%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+        font-size: 20px;
+
+    }       
+
+    #fanny{
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    #Rehema{
+        margin-top: 10%;
+    }
+    #yiamat{
+        margin-top: 10%;
+        margin-bottom: 200%;
+        
+    }
+    #yvonne{
+        margin-top: 10%;
+        
+    }
+}
+@media screen and (min-width:769px) and (max-width:1024px){
+    img{
+        height: 25vh;
+        width: 19vw;
+    
+    }
+    .team{
+        background-color: rgb(16, 33, 41);
+        width: 100%;
+
+    
+    }
+    figcaption{
+        color: rgb(228, 231, 214);
+        font-size: 15px;
+    }
+    #pictures{
+        display: flex;
+        gap: 6%;
+        justify-content: space-around;
+    
+    }
+    h1{
+        text-align: center;
+        color: aliceblue;
+        font-size: 24px;
+    }
+    b{
+        color: rgb(34, 179, 159);
+    }
+    p{
+        color: aliceblue;
+        text-align: center;
+        margin: 1%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+        font-size: 20px;
+
+    }       
+
+    #fanny{
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    #Rehema{
+        margin-top: 10%;
+    }
+    #yiamat{
+        margin-top: 10%;
+        
+    }
+    #yvonne{
+        margin-top: 10%;
+        
+    }
+}
