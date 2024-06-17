@@ -3,6 +3,7 @@ import Roadmap from './RoadMap';
 import About from './AboutUs';
 import Team from './Team';
 import Homepage from './HomePage';
+import Contacts from './Contacts';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <About/>
       <Roadmap/>
       <Team/>
+      <Contacts/>
     </div>
   );
 }
