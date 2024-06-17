@@ -11,24 +11,26 @@ const Roadmap = () =>{
                 <h1>Road Map</h1>
                 <div className='Aim'>
                
-                <div className='Values'><h1>Values</h1><h2>Sustainability</h2><p>
-                    We believe that Sustainability
+                <div className='Values'><h2>Values</h2><p>
+                    <b>Sustainability:</b>We believe that Sustainability<br/>
                     is essential for the wellbeing of
-                    our planet and its inhabitants
-                    <h2>Education</h2>
-                    <p>We value education and believe that it is essential
-                        for raising awareness about the importance of sustainability
+                    our planet <br/>and its inhabitants
+                    <br/>
+                    <br/>
+                    <p><b>Education:</b>We value education and believe <br/>that it is essential
+                        for raising awareness<br/> about the importance of sustainability
                     </p>
                     
                     </p></div>
                 <div className='Goals'>
-                    <h1>Our Goals</h1>
-                    <h2>Educate users</h2>
-                    <p>about the environmental impact of fast<br/> fashion and the benefits of upcycling</p>
-                    <h2>Reduce Waste</h2>
-                    <p> Reduce clothe Waste
-                    by promoting the upcycling <br/> of 
-                    discarded clothing into functional
+                    <h2>Our Goals</h2>
+                    
+                    <p><b>Educate Users:</b>about the environmental impact <br/>of fast fashion and the benefits of upcycling</p>
+                    <br/>
+                    <br/>
+                    <p><b>Reduce Waste:</b> Reduce clothe Waste
+                    by promoting<br/> the upcycling  of 
+                    discarded clothing into functional<br/>
                     products
 
                     </p>
