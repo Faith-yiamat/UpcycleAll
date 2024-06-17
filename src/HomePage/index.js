@@ -20,7 +20,6 @@ function Homepage(){
 </p>
 
   <img className='img2' src='Image/landing.png' alt=''/>
-  {/* <button>Join Now</button> */}
 
   </div>
       </div>

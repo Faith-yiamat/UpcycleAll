@@ -4,12 +4,12 @@ import './index.css'
 const Contacts = () =>{
     return(
         <div className='allcontact'>
-            <h1>CONTACT US</h1>
+            <h1 className='h1'>CONTACT US</h1>
             <div className='contacts'>
                 <div className='details'>
-        <p>Phone: +255 988 789 900</p>
-        <p>E-mail: upcycleit@gmail.com</p>
-        <p>Location: Nairobi,Karen</p>
+        <p className='paragraph'>Phone: +255 988 789 900</p>
+        <p className='paragraph'>E-mail: upcycleit@gmail.com</p>
+        <p className='paragraph'>Location: Nairobi,Karen</p>
         </div>
         <img src = "imag/map.png" alt="map" className='map'/>
         </div>
@@ -35,7 +35,7 @@ const Contacts = () =>{
           </fig>
           </div>
          
-        <p>@2024UPCYCLEIT | ALL RIGHTS PRESERVED</p>
+        <p className='paragraph'>@2024UPCYCLEIT | ALL RIGHTS PRESERVED</p>
          </div>
         
        
